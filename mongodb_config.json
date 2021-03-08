@@ -1,0 +1,8 @@
+{
+    "db": {
+            "url" : "mongodb://quppayment:QUpInMyHeart@192.168.2.82:27017,192.168.2.84:27017,192.168.2.86:27017/?authSource=admin&authMechanism=SCRAM-SHA-1&replicaSet=mongodb-rs&maxPoolSize=200&waitQueueMultiple=10&waitQueueTimeoutMS=2000&w=1&readPreference=primary",
+            "name" :"hoangdev",
+            "user" :"quppayment",
+            "password" :"QUpInMyHeart"
+    }
+}
